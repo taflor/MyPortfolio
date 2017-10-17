@@ -1,1 +1,37 @@
+body {
+    font-size: 16px;
+    color: #000;
+}
 
+/** Header **/
+#header-nav {
+    background-color: #b3d5fa;
+    border-radius: 0;
+    border: 0;
+    height: 90px;
+}
+
+#logo-img {
+    /** FIND LOGO **/
+    width: 150px;
+    height: 150px;
+    margin: 10px 15px 10px 0;
+}
+
+.navbar-brand {
+    padding-top: 10px;
+}
+
+.navbar-brand h1 {
+    font-family: 'Berkshire Swash', cursive;
+    font-weight: bold;
+    color: #165222;
+    margin: 0;
+    padding: 5px;
+}
+
+.navbar-brand p {
+    font-family: sans-serif;
+    color: #444644;
+    margin-left: 25px;
+}
